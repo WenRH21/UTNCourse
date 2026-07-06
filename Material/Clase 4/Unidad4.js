@@ -10,7 +10,7 @@ console.log(`El ${producto} cuesta ${precio} y su disponibilidad es: ${disponibl
 const productos = ["monitor", "teclado", "mouse"];
 
 for (let i = 0; i < productos.length; i++) {
-  console.log(`${productos[i]}`);
+  console.log(` No te olvides de comprar ${productos[i]}`);
 }
 
 
